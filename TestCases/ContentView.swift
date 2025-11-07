@@ -17,7 +17,7 @@ struct ContentView: View {
         }
         .padding()
     }
-    func name(){
+    func nameom(){
       
     }
 }
